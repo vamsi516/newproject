@@ -49,5 +49,4 @@ INNER JOIN employee_company_details AS c
 
 SELECT *
 FROM employee_company_report
-ORDER BY employee_id;
-
+-- ORDER BY employee_id;
